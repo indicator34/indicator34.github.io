@@ -16,10 +16,9 @@ body
 
 #exampvid
 {
- float: center;
- 
+position: fixed;
+	margin-left:10em;
 }
-
 #SocmedT
 {
   float: right;
