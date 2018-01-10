@@ -16,8 +16,8 @@ body
 
 #exampvid
 {
-position: fixed;
-	margin-left:15em;
+position: absolute;
+	margin-left:14em;
 	
 	margin-top: 20em;
 }
