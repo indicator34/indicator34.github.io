@@ -146,3 +146,128 @@ a:active {
 	position: absolute;
 	margin-top: 20em;
 	margin-left: 50em;
+}
+
+.merch1
+{
+	position:absolute;
+	margin-top: 20em;
+	margin-left: 5em;
+	
+}
+
+.merch2
+{
+	position: absolute;
+	margin-top: 20em;
+	margin-left: 25em;
+}
+
+.merch3
+{
+	position: absolute;
+	margin-top: 20em;
+	margin-left: 45em;
+}
+
+.textdrop
+{
+	margin-top: 33em;
+	
+}
+
+.merchb1
+{
+	margin-top: 37em;
+	position: absolute;
+	margin-left: 5em;
+	margin-right:5em;
+	
+}
+.mb11
+{
+	margin-left: 7em;
+}
+
+.mb12
+{
+	margin-left:10em;
+}
+
+.merchb2
+{
+	margin-top: 37em;
+	position: absolute;
+	margin-left: 25em;
+}
+
+.mb21
+{
+	margin-left:27em;
+}
+
+.mb22
+{
+margin-left: 30em;	
+}
+
+.merchb3
+{
+	margin-top: 37em;
+	position: absolute;
+	margin-left: 45em;
+}
+
+.mb31
+{
+	margin-left: 47em;
+}
+
+.mb32
+{
+	margin-left: 50em;
+}
+
+.pad
+{
+	padding: 0.5em;
+}
+
+.basket
+{
+	margin-top: 20em;
+	position: absolute;
+	padding-bottom: 11em;
+	margin-left: 65em;
+	padding-right: 20em;
+	
+}
+
+.Bas1
+{
+	margin-top: 22em;
+	position: absolute;
+	margin-left: 65em;
+}
+
+
+.Bas2
+{
+	margin-top: 24em;
+	position: absolute;
+	margin-left: 65em;
+}
+
+.Bas3
+{
+	margin-top: 26em;
+	position: absolute;
+	margin-left: 65em;
+}
+
+.Bas4
+{
+	margin-top: 28em;
+	position: absolute;
+	margin-left: 65em;
+}
