@@ -1,7 +1,7 @@
 body
 {
 	font-family: Open Sans;
-	background-image: "assets/pendulum-full-band.jpg"
+	background-image: url("assets/pendulum-full-band.jpg");
 }
 
 #Demo
