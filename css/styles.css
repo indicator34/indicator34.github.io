@@ -271,3 +271,332 @@ margin-left: 30em;
 	position: absolute;
 	margin-left: 65em;
 }
+
+.check1
+{
+	position: absolute;
+	margin-top: 30em;
+	margin-left: 82em;
+}
+
+.check2
+{
+	position: absolute;
+	margin-top: 15em;
+	margin-left: 12em;
+}
+
+@media only screen and (max-width: 500px) {
+	body
+{
+	font-family: Open Sans;
+}
+
+#Demo
+{
+	margin-top: 10em;
+	margin-left: 0.5em;
+	position: absolute;
+	background-color: white;
+	border-style: solid;
+	padding: 0.25em;
+	color: black;
+}
+
+#exampvid
+{
+position: absolute;
+	margin-left:2.5em;
+	width: 20em;
+	margin-top: 40em;
+	height: 20em;
+}
+#SocmedT
+{
+  float: right;
+  margin-top: 8em;
+  margin-left: 19em;
+  margin-right: 2em;
+	position: absolute;
+}
+
+#SocmedB
+{
+	margin-top: 1em;
+	float: right;
+	margin-left: 19em;
+	position: absolute;
+	margin-right: 2em;
+}
+
+
+#Topbar
+{
+	color: black;
+	background-color: white;
+	margin-top: 4em;
+	margin-left: 1.5em;
+	margin-right: 2em;
+	word-spacing: 6rem;
+	padding-left: 0.3em;
+	padding-right: 1em;
+border-style: solid;
+	font-size: 3em;
+	position: absolute;
+	padding-top: -2em;
+	border-width: 10px;
+	
+}
+
+.logo
+{
+	width:15em;
+	position:absolute;
+	margin-left: 5.2em;
+	margin-top: 0em;
+}
+
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+
+a:hover {
+    color: black;
+}
+
+
+a:active {
+    color: black;
+}
+
+.aboutpic
+{
+	padding: 5px;
+	background-color: white;
+	border-style: solid;
+	border-width: 5px
+	
+}
+
+.abpp
+{
+	margin-top: 40em;
+	margin-left: 4.3em;
+	position: absolute;
+	
+}
+
+.textbox
+{
+	background-color: white;
+	border-style: solid;
+	border-width: 5px;
+	margin-left: 40em;
+	
+}
+
+.atext
+{
+	margin-top: 55em;
+	position: absolute;
+	padding-bottom: 11em;
+	margin-left: 2em;
+	margin-right: 2em;
+	
+}
+
+#Aboutpp
+{
+	position: absolute;
+	margin-top: 80em;
+	margin-left: 2em;
+}
+
+.ttext
+{
+	position: absolute;
+	margin-top: 40em;
+	margin-left: 1em;
+	padding: 0.5em;
+	margin-right: 1em;
+}
+
+.tvideo
+{
+	position: absolute;
+	margin-top: 50em;
+	margin-left: 2em;
+	width: 20em;
+}
+
+.tmap
+{
+	position: absolute;
+	margin-top: 75em;
+	margin-left: 2.5em;
+	width:20em;
+}
+
+.merch1
+{
+	position:absolute;
+	margin-top: 42em;
+	margin-left: 6em;
+	
+}
+
+.merch2
+{
+	position: absolute;
+	margin-top: 62em;
+	margin-left: 6em;
+}
+
+.merch3
+{
+	position: absolute;
+	margin-top: 82em;
+	margin-left: 6em;
+}
+
+.textdrop
+{
+	margin-top: 40em;
+	
+}
+
+.td1
+{
+	margin-top: 55em;
+}
+
+.td2
+{
+	margin-top: 75em;
+}
+
+.td3
+{
+	margin-top: 95em;
+}
+
+
+.merchb1
+{
+	margin-top: 59em;
+	position: absolute;
+	margin-left: 10em;
+	margin-right:5em;
+	
+}
+.mb11
+{
+	margin-left: 12em;
+}
+
+.mb12
+{
+	margin-left:14em;
+}
+
+.merchb2
+{
+	margin-top: 79em;
+	position: absolute;
+	margin-left: 10em;
+}
+
+.mb21
+{
+	margin-left:12em;
+}
+
+.mb22
+{
+margin-left: 14em;	
+}
+
+.merchb3
+{
+	margin-top: 99em;
+	position: absolute;
+	margin-left: 10em;
+}
+
+.mb31
+{
+	margin-left: 12em;
+}
+
+.mb32
+{
+	margin-left: 14em;
+}
+
+.pad
+{
+	padding: 0.5em;
+}
+
+.basket
+{
+	margin-top: 105em;
+	position: absolute;
+	padding-bottom: 11em;
+	margin-left: 3em;
+	padding-right: 15em;
+	
+}
+
+.Bas1
+{
+	margin-top: 108em;
+	position: absolute;
+	margin-left: 3em;
+}
+
+
+.Bas2
+{
+	margin-top: 110em;
+	position: absolute;
+	margin-left: 3em;
+}
+
+.Bas3
+{
+	margin-top: 112em;
+	position: absolute;
+	margin-left: 3em;
+}
+
+.Bas4
+{
+	margin-top: 114em;
+	position: absolute;
+	margin-left: 3em;
+}
+
+.check1
+{
+	margin-top: 116em;
+	margin-left: 15em;
+	position: absolute;
+}
+
+.check2
+{
+	margin-top: 40em;
+	position: absolute;
+	margin-left: 2em;
+	margin-right: 2em;
+}
+
+	
+}
