@@ -5,6 +5,15 @@ body
 	background-size: auto;
 }
 
+#pdf
+{
+	margin-top: 60em;
+	margin-left:12.5em;
+	width: 70em;
+	height: 40em;
+	
+}
+
 #Demo
 {
 	margin-top: 7.5em;
